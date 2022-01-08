@@ -3,9 +3,7 @@
 This is a basic Hello World program written in Python. The goal of this program was to 
 show the use of GitHub, Visual Studio Code, Git and Python integrated together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/NRtlxVkOakY)
 
 # Development Environment
 
